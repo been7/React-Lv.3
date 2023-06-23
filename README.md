@@ -1,3 +1,11 @@
+# PROJECT
+
+- React Lv.3
+
+# GOAL
+
+- 모달, 버튼을 포함한 웹페이지 연습하기
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
